@@ -1,4 +1,4 @@
-<?php
+<?php echo "hello";
     $arrArray = array(1, 3, 5, 7, 9, array('a', 'b', 'c'));
     echo $arrArray[5][0].'<br>';
     
